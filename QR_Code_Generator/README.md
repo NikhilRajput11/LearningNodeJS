@@ -8,7 +8,7 @@ npm modules - inquirer, qr-image
 
 **Key Features:**
 
-**User Input with Inquirer**:
+**User Input with inquirer**:
 Utilizing the inquirer npm module, the application prompts users for input, allowing them to specify the content for the QR code generation. For example, users can input a URL, and the application processes this information for QR code creation.
 
 **QR Code Creation**:
