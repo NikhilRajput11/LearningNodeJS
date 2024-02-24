@@ -4,11 +4,7 @@ In this self-learning project, I created a QR code generator using Node.js. Leve
 **Technologies Used:**
 Node.js
 
-Inquirer npm module
-
-qr-image npm module
-
-fs (filesystem)
+npm modules - inquirer, qr-image
 
 **Key Features:**
 
